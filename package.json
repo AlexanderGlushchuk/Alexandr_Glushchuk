@@ -1,0 +1,15 @@
+{
+  "name": "testinghomework",
+  "version": "1.0.0",
+  "description": "Selenium Homework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alex Glushchuk",
+  "license": "MIT",
+  "keywords": [],
+  "dependencies": {
+    "selenium-webdriver": "^4.1.0"
+  }
+}
